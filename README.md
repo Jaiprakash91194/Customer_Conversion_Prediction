@@ -1,7 +1,8 @@
 
 # GUVICARE:
 
-GUVICARE predicts whether a customer will opt for an insurance policy.
+GUVICARE - Application to predicts whether a customer will opt for an insurance policy.
+
 ![Random GIF](https://c.tenor.com/b5J9lCPQlAEAAAAi/democracyrising-our-time-now-for-our-health.gif)
 ## Description:
 
