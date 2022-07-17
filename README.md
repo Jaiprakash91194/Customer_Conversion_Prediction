@@ -12,7 +12,7 @@ The Model will analyse the parameters provided by user and predict whether custo
 ## Detailed Description:
 <img align = right height = 120 width = 120 src = https://www.thesparksfoundationsingapore.org/images/logo_small.png>
 
-This is a real world Datascience problem, given in DATATHAON1.0(24 hours live hackathon event), an itiative by GUVI to get the students get exposure to real world datascience problems, conducted on  on 16&17 July 2022.
+This is a real world Datascience problem, given in DATATHAON1.0(30 hours live hackathon event), an itiative by GUVI to get the students get exposure to real world datascience problems, conducted on 16&17 July 2022.
 
 Participants are provided with real world datascience problems and are expected to create solution to problem using Datascience techniques.
 
@@ -75,3 +75,7 @@ We select the best model for prediction the output, based on model performance f
 
 Once we select the best model, we use FLASK to host the application.
 The application takes various input from user and predicts whether the customer will opt to insurance plan or not.
+
+## Flask API output
+ - ![FLASK API Screenshot](https://github.com/Jaiprakash91194/Customer_Conversion_Prediction/blob/main/Customer_Prediction_snip.jpg "FLASK API Output")
+
