@@ -12,7 +12,7 @@ The Model will analyse the parameters provided by user and predict whether custo
 ## Detailed Description:
 <img align = right height = 120 width = 120 src = https://www.thesparksfoundationsingapore.org/images/logo_small.png>
 
-This is a real world Datascience problem, given in DATATHAON1.0(24 hours live hackathon event), an itiative by GUVI to get the students get exposure to real world datascience problems, conducted on  on 16&17 July 2022.
+This is a real world Datascience problem, given in DATATHAON1.0(30 hours live hackathon event), an itiative by GUVI to get the students get exposure to real world datascience problems, conducted on 16&17 July 2022.
 
 Participants are provided with real world datascience problems and are expected to create solution to problem using Datascience techniques.
 
