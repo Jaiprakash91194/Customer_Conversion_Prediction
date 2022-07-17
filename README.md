@@ -1,5 +1,6 @@
 
 # GUVICARE:
+<img align = right height = 120 width = 120 src = https://github.com/Jaiprakash91194/Customer_Conversion_Prediction/blob/main/GUVI_logo3.png>
 
 GUVICARE - Application to predicts whether a customer will opt for an insurance policy.
 
@@ -10,7 +11,7 @@ GUVICARE is an application can predict whether the customer will opt for insuran
 The Model will analyse the parameters provided by user and predict whether customer taken insurance plan.
 
 ## Detailed Description:
-<img align = right height = 120 width = 120 src = https://www.thesparksfoundationsingapore.org/images/logo_small.png>
+<img align = right height = 120 width = 120 src = https://github.com/Jaiprakash91194/Customer_Conversion_Prediction/blob/main/GUVI_Logo.png>
 
 This is a real world Datascience problem, given in DATATHAON1.0(30 hours live hackathon event), an itiative by GUVI to get the students get exposure to real world datascience problems, conducted on 16&17 July 2022.
 
