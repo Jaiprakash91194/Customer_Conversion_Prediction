@@ -75,3 +75,7 @@ We select the best model for prediction the output, based on model performance f
 
 Once we select the best model, we use FLASK to host the application.
 The application takes various input from user and predicts whether the customer will opt to insurance plan or not.
+
+## Flask API output
+ - ![FLASK API Screenshot](https://github.com/Jaiprakash91194/Customer_Conversion_Prediction/blob/main/Customer_Prediction_snip.jpg "FLASK API Output")
+
